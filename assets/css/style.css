@@ -81,7 +81,7 @@ p {
     margin-left: 25px;
 }
 
-.topics /* Deleted duplicate CSS code across 3 classes and combined them into a single class */ {
+.services /* Deleted duplicate CSS code across 3 classes and combined them into a single class */ {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -91,11 +91,11 @@ p {
 }
 
 
-.topics img {
+.services img {
     max-height: 200px;
 }
 
-.topics h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
